@@ -1,14 +1,12 @@
 <template>
-  <h1>Hellow {{ msg }}</h1>
-
+  <div>
+      <h1>Hellow </h1>
+      <button class="btn btn-danger btn-sm">Check</button>
+  </div>
 </template>
-
-<script setup>
-  import { defineProps, reactive } from 'vue'
-
-  defineProps({
-    msg: String
-  })
-
-
+<script>
+   methods: {
+      check(){}
+    
+  }
 </script>
