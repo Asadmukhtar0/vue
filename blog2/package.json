@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^10.15.6",
     "vue": "^3.0.0"
   },
   "devDependencies": {
