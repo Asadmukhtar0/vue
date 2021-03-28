@@ -1,13 +1,13 @@
 <template>
-  <home  />
+  <teachers  />
 </template>
 <script>
-import home from './components/home.vue'
+import teachers from './components/teachers.vue'
 
 export default {
   name: 'App',
   components: {
-    home
+    teachers
   }
 }
 </script>
